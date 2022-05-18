@@ -61,9 +61,8 @@
 
 // console.log("o email", emailUsuario, "foi cadastrado com sucesso. seja bem vindo(a)", nomeUsuario)
 
-const comidaPreferida = [lasanha + camarao + strogonof + manjuba + macarrao]
 
-console.log("essas são as minhas comidas preferida", comidaPreferida)
+
 
 
 
